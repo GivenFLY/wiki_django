@@ -11,7 +11,7 @@
 ### Получение любой версии одной страницы (GET запрос)  
 `localhost/api/articles/<article_id>/<version_number>`  
 `localhost/api/articles/3/2`  
-###Получение текущей версии страницы (GET запрос)  
+### Получение текущей версии страницы (GET запрос)  
 `localhost/api/articles/<article_id>`  
 `localhost/api/articles/3`  
 ### Редактирование страницы (PUT запрос)  
